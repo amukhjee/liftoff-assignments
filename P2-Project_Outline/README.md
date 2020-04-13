@@ -30,6 +30,6 @@ Monitoring competitors can provide business/organizations with powerful insights
 •	AWS
 
 ### What I'll Have to Learn
-I will learn to cteate the complete infrastruce in AWS envirnment to host the application. I will learn to integrate tools like SonarQube for code quality check.I may also learn to include different APIs if I find them useful for my app. I will also learn DevOps for build and deployment automation.
+I will learn to cteate the complete infrastructure in AWS environment to host the application. I will learn to integrate tools like SonarQube for code quality check.I may also learn to include different APIs if I find them useful for my app. I will also learn DevOps for build and deployment automation.
 ### Project Tracker
 https://trello.com/b/4vE3YiwL/competrack
